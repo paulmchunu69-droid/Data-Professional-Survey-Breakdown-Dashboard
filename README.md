@@ -2,11 +2,11 @@
 
 This project analyzes survey responses from 630 data professionals to better understand salaries, skills, job satisfaction, and industry trends. The report was built using Power BI, featuring interactive visuals that highlight key insights about the modern data workforce.
 
-1 Project Objective
+## Project Objective
 
 To explore and visualize survey data from data professionals around the world, uncovering trends in job roles, salary, programming languages, career difficulty, and overall satisfaction — and to present insights that help aspiring and existing data workers make informed career decisions.
 
-2 Key Questions / KPIs
+## Key Questions / KPIs
 
 What countries do most survey participants come from?
 
@@ -20,7 +20,7 @@ How difficult is it to break into the data industry?
 
 What is the average age of survey respondents?
 
-3 Process
+## Process
 
 Imported survey dataset into Power BI
 
@@ -32,7 +32,7 @@ Designed a single-page dashboard emphasizing readability and insight discovery
 
 Added slicers, tooltips, and advanced charts to support exploration
 
-4 Project Insights
+## Project Insights
 
 The United States represents the largest share of respondents, followed by India.
 
@@ -46,7 +46,7 @@ Nearly half of respondents say breaking into data is “neither easy nor difficu
 
 The average age of a data professional in this sample is around 30.
 
-5 Final Conclusion
+## Final Conclusion
 
 The survey reveals a growing but competitive data industry where Python dominates, salaries vary significantly by role, and many professionals feel only moderately satisfied with compensation. Despite this, work-life balance scores are higher, and most respondents believe entering the field is possible — though not effortless. These findings can help both employers and new entrants understand the realities of working in data today
 
