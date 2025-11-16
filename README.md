@@ -50,4 +50,4 @@ The average age of a data professional in this sample is around 30.
 
 The survey reveals a growing but competitive data industry where Python dominates, salaries vary significantly by role, and many professionals feel only moderately satisfied with compensation. Despite this, work-life balance scores are higher, and most respondents believe entering the field is possible — though not effortless. These findings can help both employers and new entrants understand the realities of working in data today
 
-screenshot ()
+screenshot (https://github.com/paulmchunu69-droid/Data-Professional-Survey-Breakdown-Dashboard/blob/main/First%20Data%20Project.PNG)
