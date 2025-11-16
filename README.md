@@ -32,6 +32,11 @@ Designed a single-page dashboard emphasizing readability and insight discovery
 
 Added slicers, tooltips, and advanced charts to support exploration
 
+##Dashboard 
+ (https://github.com/paulmchunu69-droid/Data-Professional-Survey-Breakdown-Dashboard/blob/main/First%20Data%20Project.PNG)
+<img width="766" height="429" alt="1763294801971763982922098065082" src="https://github.com/user-attachments/assets/c85de954-9dd1-4e55-816a-cee2d0f76d06" />
+
+
 ## Project Insights
 
 The United States represents the largest share of respondents, followed by India.
@@ -49,5 +54,3 @@ The average age of a data professional in this sample is around 30.
 ## Final Conclusion
 
 The survey reveals a growing but competitive data industry where Python dominates, salaries vary significantly by role, and many professionals feel only moderately satisfied with compensation. Despite this, work-life balance scores are higher, and most respondents believe entering the field is possible — though not effortless. These findings can help both employers and new entrants understand the realities of working in data today
-
-screenshot (https://github.com/paulmchunu69-droid/Data-Professional-Survey-Breakdown-Dashboard/blob/main/First%20Data%20Project.PNG)
